@@ -1,5 +1,5 @@
 # Classes
-This is a repo for any/all of the files I might need to share between devices for my classes. 
+This is a repo for any/all of the files I might need to share between devices for my classes I am taking at Utah Valley University. 
 
 Current Classes being:
   - English 2010
